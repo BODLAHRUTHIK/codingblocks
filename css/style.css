@@ -1,3 +1,6 @@
+*{
+    font-style: italic;
+}
 div{
     color : red;
     font-size:26pt
@@ -5,4 +8,22 @@ div{
 p{
     color : rgb(7, 7, 7);
     background-color :rgb(13, 255, 0)
+}
+.highlighters{
+    font-style:normal;
+    font-weight: bold;
+}
+.big{
+    font-size: 25pt;
+}
+
+#one{
+    padding-left : 20px;
+}
+input[disabled]{
+    width: 200px;
+}
+input[type="text"]{
+    height: 200px;
+    font-size: large;
 }

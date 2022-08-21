@@ -1,0 +1,36 @@
+/* div{
+    margin-left: 300px;
+}
+
+katre{
+    color:blue;
+    font-weight: bold;
+}
+
+input[id="b"]{
+    padding-left: 30px;
+}
+
+#c{
+    padding-left: 30px;
+}
+#d{
+    margin-left: 30px;
+} */
+
+/* ul{
+    color:rgb(255, 9, 9)
+} */
+
+ul>li{
+    font-weight: bold;
+    color:green;
+}
+
+/* ol>li{
+    color:darkred;
+} */
+
+div>p{
+    color:blueviolet
+}

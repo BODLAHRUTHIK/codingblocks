@@ -1,0 +1,10 @@
+input{
+    background-color: pink;
+}
+*{
+    background-color: bisque;
+    color: blue;
+}
+#a{
+    margin-top: 100px;
+}

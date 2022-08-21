@@ -1,0 +1,26 @@
+div.btn{
+    background-color:bisque;
+    width: 200px;
+    height: 40px;
+    padding: 20px;
+    font-size: larger;
+    /* transition: 1s; */
+    box-shadow: gray 10px 10px 10px;
+    border-radius: 10pt;
+
+}
+
+div:hover{
+    /* transition: 1s; */
+    box-shadow: gray 20px 20px 10px;
+    transform: translate(-10px, -10px );
+    color: red;
+    background-color: darkgoldenrod;
+    
+
+}
+div:active{
+    /* transition: 5s; */
+    transform: translate(5px, 5px);
+    background-color: green;
+}
